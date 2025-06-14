@@ -5,17 +5,17 @@ Manual test case examples for QA practice and portfolio purposes. Login, Signup,
 
 Each file in the `test-cases/` folder describes a specific feature or flow, including:
 
-- ✅ Scenario
-- 📋 Steps
-- 🎯 Expected Result
+- Scenario
+- Steps
+- Expected Result
 
-## 📂 Files
+## Files
 
 - `login.md` — Successful login scenario  
 - `signup.md` — User registration flow  
 - `search.md` — Product search test
 
-## 📚 Purpose
+## Purpose
 
 These test cases are fictional and created for practice purposes.  
 They follow a simple structure to demonstrate test case design and communication clarity.
