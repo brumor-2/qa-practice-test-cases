@@ -20,7 +20,7 @@ Each Markdown file in the `test-cases/` folder includes:
 - `search.md` — Product search validations  
 - `recover-password.md` — Email input handling on password reset  
 - `upload-validation.md` — File type and size restrictions for uploads
-- 'coupon-eligibility.mid' - Coupon eligibility validation scenarios
+- `coupon-eligibility.md` - Coupon eligibility validation scenarios
 
 ## 🎯 Purpose
 
