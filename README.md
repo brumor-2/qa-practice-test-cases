@@ -1,25 +1,38 @@
 # qa-practice-test-cases
-Manual test case examples for QA practice and portfolio purposes. Login, Signup, and Product Search scenarios included.
 
-##  Structure
+This repository contains manual test case examples created for QA practice, study, and portfolio demonstration.  
+It includes structured test cases for common application scenarios such as Login, Signup, Product Search, and Password Recovery.
 
-Each file in the `test-cases/` folder describes a specific feature or flow, including:
+## 📁 Structure
 
-- Scenario
-- Steps
-- Expected Result
+Each Markdown file in the `test-cases/` folder includes:
 
-## Files
+- **Scenario**: Context and purpose of the test  
+- **Steps**: Actions a user would take  
+- **Expected Result**: What the system should return  
+- **Acceptance Criteria** *(optional)*: Additional business rules for validation  
+- **Test Variations** *(when applicable)*: Multiple outcomes based on different inputs
 
-- `login.md` — Successful login scenario  
-- `signup.md` — User registration flow  
-- `search.md` — Product search test
+## ✅ Current Test Cases
 
-## Purpose
+- `login.md` — Valid login flow  
+- `signup.md` — User registration scenarios  
+- `search.md` — Product search validations  
+- `recover-password.md` — Email input handling on password reset  
+- `upload-validation.md` — File type and size restrictions for uploads
+- 'coupon-eligibility.mid' - Coupon eligibility validation scenarios
 
-These test cases are fictional and created for practice purposes.  
-They follow a simple structure to demonstrate test case design and communication clarity.
+## 🎯 Purpose
+
+These test cases are fictional and intended for:
+
+- Practicing manual test case design  
+- Demonstrating QA documentation structure  
+- Creating a portfolio of QA skills
+
+They are written in clear, concise English for easy understanding and review by developers, testers, or recruiters.
 
 ---
 
-Feel free to check the files and suggest improvements!
+Feel free to explore, fork, or suggest improvements via Issues or Pull Requests!
+
