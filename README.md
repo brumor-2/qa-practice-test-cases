@@ -22,6 +22,14 @@ Each Markdown file in the `test-cases/` folder includes:
 - `upload-validation.md` — File type and size restrictions for uploads
 - `coupon-eligibility.md` - Coupon eligibility validation scenarios
 
+  ## 🔄 Project Boards
+
+This repository includes GitHub Project boards simulating real QA workflows.
+
+- [File Upload Validation Sprint](https://github.com/users/brumor-2/projects/2)  
+Includes test case documentation, a user story, bug identification and sprint-style task breakdown, based on Kanban boards.
+
+
 ## 🎯 Purpose
 
 These test cases are fictional and intended for:
