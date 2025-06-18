@@ -3,7 +3,7 @@
 This repository contains manual test case examples created for QA practice, study, and portfolio demonstration.  
 It includes structured test cases for common application scenarios such as Login, Signup, Product Search, and Password Recovery.
 
-## 📁 Structure
+## Structure
 
 Each Markdown file in the `test-cases/` folder includes:
 
@@ -13,7 +13,7 @@ Each Markdown file in the `test-cases/` folder includes:
 - **Acceptance Criteria** *(optional)*: Additional business rules for validation  
 - **Test Variations** *(when applicable)*: Multiple outcomes based on different inputs
 
-## ✅ Current Test Cases
+## Current Test Cases
 
 - `login.md` — Valid login flow  
 - `signup.md` — User registration scenarios  
@@ -22,7 +22,7 @@ Each Markdown file in the `test-cases/` folder includes:
 - `upload-validation.md` — File type and size restrictions for uploads
 - `coupon-eligibility.md` - Coupon eligibility validation scenarios
 
-  ## 🔄 Project Boards
+  ## Project Boards
 
 This repository includes GitHub Project boards simulating real QA workflows.
 
@@ -30,7 +30,7 @@ This repository includes GitHub Project boards simulating real QA workflows.
 Includes test case documentation, a user story, bug identification and sprint-style task breakdown, based on Kanban boards.
 
 
-## 🎯 Purpose
+## Purpose
 
 These test cases are fictional and intended for:
 
