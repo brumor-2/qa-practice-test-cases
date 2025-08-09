@@ -1,6 +1,6 @@
 # QA Practice Test Cases – Exemplos de Casos de Teste Manuais
 
-[Read in English](./README.md)
+[Read in English](https://github.com/brumor-2/qa-practice-test-cases/blob/main/README.md)
 
 Este repositório apresenta exemplos de casos de teste manuais, estruturados para **prática de QA**, estudo e portfólio. Contém cenários claros para fluxos comuns como **Login**, **Cadastro**, **Busca de Produto**, **Recuperação de Senha**, **Validação de Upload** e **Elegibilidade de Cupom**.
 
